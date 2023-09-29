@@ -1,0 +1,25 @@
+
+.lista-opciones{
+    margin: 24px 0;
+    font-family: Montserrat, 'serif';
+}
+.lista-opciones label{
+    font-size: 18px;
+    font-weight: 600;
+    display: block;
+    margin-bottom: 8px;
+}
+.lista-opciones select{
+    width: 100%;
+    background: #FFF;
+    box-shadow: 10px 10px 30px 0px rgba(0, 0, 0, 0.1);
+    border: none;
+    padding: 30px 20px;
+    outline-color: #6278F7;
+    font-size: 16px;
+    border-radius: 5px;
+    box-sizing: border-box;
+}
+.lista-opciones option{
+    font-family: Montserrat, 'serif';
+}

@@ -1,0 +1,45 @@
+.card-colaborador{
+    width: 280px;
+    margin-bottom: 24px;
+    position: relative;
+}
+.eliminar-card{
+    position: absolute;
+    right: -15px;
+    top: -15px;
+}
+.card-encabezado{
+    background-color: #f0f0f0;
+    border-radius: 10px 10px 0 0;
+}
+.card-encabezado img{
+    width: 100px;
+    border-radius: 50%;
+    position: relative;
+    bottom: -50px;
+}
+.card-info{
+    background: #FFFFFF;
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.08);
+    border-radius: 0 0 10px 10px;
+    padding-top: 90px;
+    padding-bottom: 40px;
+    min-height: 100px;
+    font-family: "Monserrat", sans-serif;
+}
+.card-info h4{
+    color: #6278F7;
+    font-size: 18px;
+    line-height: 22px;
+    font-weight: bold;
+    margin-bottom: 8px;
+}
+.card-info h5{
+    padding: 0 24px;
+    margin: 0;
+    color: #212121;
+    text-align: center;
+    font-family: Montserrat;
+    font-size: 16px;
+    font-weight: 400;
+}

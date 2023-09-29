@@ -1,0 +1,31 @@
+
+
+.equipo_contenedor{
+    width: 100%;
+    padding: 32px;
+    box-sizing: border-box;
+    text-align: center;
+    font-size: 32px;
+    position: relative;
+}
+.equipo_contenedor input{
+    position: absolute;
+    top: 20px;
+    right: 50px;
+}
+.equipo_contenedor h3{
+    width: auto;
+    color: #212121;
+    text-align: center;
+    font-family: Prata;
+    font-size: 32px;
+    font-weight: 400;
+    padding-bottom: 8px;
+    border-bottom: 4px solid ;   
+    display: inline-block;
+}
+.equipo_interno{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
